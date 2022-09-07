@@ -1,0 +1,111 @@
+# Translation of Plugins - Automatic Translator Plugin for WordPress with Google Translate - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Automatic Translator Plugin for WordPress with Google Translate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-13 11:33:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Automatic Translator Plugin for WordPress with Google Translate - Stable (latest release)\n"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:128
+msgid "Small"
+msgstr "Small"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:124
+msgid "Size"
+msgstr "Size"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:119
+msgid "Very rounded"
+msgstr "Very rounded"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:118
+msgid "Rounded"
+msgstr "Rounded"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:117
+msgid "Squared"
+msgstr "Squared"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:113
+msgid "Rounded corners"
+msgstr "Rounded corners"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:104
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:175
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:57
+msgid "Border color"
+msgstr "Border colour"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:97
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:168
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:50
+msgid "Border thickness"
+msgstr "Border thickness"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:88
+msgid "Color 2"
+msgstr "Colour 2"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:81
+msgid "Color 1"
+msgstr "Colour 1"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:65
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:200
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:82
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:83
+msgid "Font color"
+msgstr "Font colour"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:57
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:24
+msgid "Choose Icon"
+msgstr "Choose Icon"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:145
+#: admin/partials/auto-translate-admin-visual-settings-display.php:63
+msgid "Select Language"
+msgstr "Select Language"
+
+#. Author URI of the plugin
+msgid "https://pampa.dev"
+msgstr "https://pampa.dev"
+
+#. Author of the plugin
+msgid "Pampa Dev"
+msgstr "Pampa Dev"
+
+#: admin/partials/auto-translate-admin-language-settings-display.php:56
+msgid "All"
+msgstr "All"
+
+#: admin/partials/auto-translate-admin-language-settings-display.php:41
+msgid "Select what languages you want your website to be translated into."
+msgstr "Select which languages you want your website to be translated into."
+
+#: admin/partials/auto-translate-admin-language-settings-display.php:40
+msgid "Supported languages"
+msgstr "Supported languages"
+
+#: admin/partials/auto-translate-admin-language-settings-display.php:21
+msgid "What is your website's original language?"
+msgstr "Which is your website's original language?"
+
+#: admin/partials/auto-translate-admin-language-settings-display.php:20
+msgid "Base language"
+msgstr "Base language"
+
+#: admin/partials/auto-translate-admin-display.php:23
+msgid "Language Settings"
+msgstr "Language Settings"
+
+#: admin/partials/auto-translate-admin-visual-settings-classic-display.php:47
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:10
+#: admin/partials/auto-translate-admin-visual-settings-minimalist-display.php:14
+msgid "Icon"
+msgstr "Icon"

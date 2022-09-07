@@ -1,0 +1,15 @@
+<?php
+/**
+ * Gutenverse FAQ Hero content.
+ */
+return array(
+	'title'      => __( 'Gutenverse FAQ Hero', 'waterlava' ),
+	'categories' => array( 'waterlava-gutenverse' ),
+	'content'    => '<!-- wp:gutenverse/section {"gap":"no","elementId":"guten-asiuhB","background":{"type":"default","image":{"Desktop":{"id":177,"image":"' . esc_url( WATERLAVA_URI ) . 'assets/img/StockSnap_JJ4VAV1JZW.webp"}},"position":{"Desktop":"center center"},"repeat":{"Desktop":"no-repeat"},"size":{"Desktop":"cover"}},"backgroundOverlay":{"type":"default","color":{"r":5,"g":5,"b":5,"a":1}},"opacity":"0.6","bottomDivider":{"type":"waves","width":{"Desktop":"144"},"height":{"Desktop":"88","Mobile":"60"},"colorMode":"default","color":{"r":255,"g":255,"b":255,"a":1}},"margin":{"Desktop":{},"Tablet":{"unit":"px","dimension":{"top":""}},"Mobile":{}},"padding":{"Desktop":{"unit":"px","dimension":{"top":"150","bottom":"150"}},"Tablet":{"unit":"px","dimension":{"top":"100","bottom":"100"}},"Mobile":{"unit":"px","dimension":{"top":"100","bottom":"100"}}}} -->
+			<div class="section-wrapper" data-id="asiuhB"><script>var topasiuhB = {"Desktop":{"point":"0","unit":"px"}};var bottomasiuhB = {"Desktop":{"point":"0","unit":"px"}};</script><section class="wp-block-gutenverse-section guten-element guten-section guten-asiuhB layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"><svg fill="none" height="143" class="guten-shape-fill" viewBox="0 0 1200 143" preserveAspectRatio="none" width="1200" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="m1200 20.0467h-33c-34 0-100 0-167 24.0561s-133 72.1682-200 90.2102-133 6.014-200-18.042c-67-24.0561-133-60.1402-200-78.1822-67-18.0421-133-18.0421-200 0-67 18.042-133 54.1261-167 72.1682l-33 18.042v-128.299h1200z" fill="#000" fill-rule="evenodd"></path></svg></div><div class="guten-container guten-column-gap-no"><!-- wp:gutenverse/column {"width":{"Desktop":100},"elementId":"guten-z0Zwp6"} -->
+			<div class="wp-block-gutenverse-column guten-element guten-column guten-z0Zwp6"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="z0Zwp6"><script>var topz0Zwp6 = {"Desktop":{"point":"0","unit":"px"}};var bottomz0Zwp6 = {"Desktop":{"point":"0","unit":"px"}};</script><div class="guten-column-wrapper"><!-- wp:gutenverse/heading {"elementId":"guten-Kfa1wl","textAlign":{"Desktop":"center"},"color":{"r":255,"g":255,"b":255,"a":1},"typography":{"font":{"label":"Alex Brush","value":"Alex Brush","type":"google"},"size":{"Desktop":{"point":"97","unit":"px"},"Mobile":{"point":"48","unit":"px"}},"weight":"400","lineHeight":{"Desktop":{"point":"100","unit":"px"},"Mobile":{"point":"48","unit":"px"}}},"animation":{"type":{"Desktop":"fadeInDown"},"duration":"normal"}} -->
+			<h2 class="wp-block-gutenverse-heading guten-element guten-Kfa1wl animated guten-element-hide desktop-fadeInDown">FAQ</h2>
+			<!-- /wp:gutenverse/heading --></div></div></div>
+			<!-- /wp:gutenverse/column --></div></section></div>
+			<!-- /wp:gutenverse/section -->',
+);

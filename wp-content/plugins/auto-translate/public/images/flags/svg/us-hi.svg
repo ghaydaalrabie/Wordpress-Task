@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 320 0 L 320 280 L 0 280 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 0 L 294 0 L 294 260 L 0 260 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0 0 L 0 120 L 293.332031 120 L 293.332031 240 L 280 240 Z M 280 0 L 140 0 L 140 260 L 0 260 L 0 240 Z M 280 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="640" height="480" style="fill:rgb(0.392157%,12.941176%,41.176471%);fill-opacity:1;stroke:none;"/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style="fill-rule:nonzero;fill:rgb(0.392157%,12.941176%,41.176471%);fill-opacity:1;stroke-width:2.4;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 0 L 27.999902 16 M 21 0 L 0 12 " transform="matrix(13.333333,0,0,20,0,0)"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style="fill-rule:nonzero;fill:rgb(0.392157%,12.941176%,41.176471%);fill-opacity:1;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(78.431373%,6.27451%,18.039216%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 0 L 27.999902 16 M 21 0 L 0 12 " transform="matrix(13.333333,0,0,20,0,0)"/>
+</g>
+</g>
+<path style="fill-rule:nonzero;fill:rgb(0.392157%,12.941176%,41.176471%);fill-opacity:1;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10.5 0 L 10.5 14 M 0 6 L 24 6 " transform="matrix(13.333333,0,0,20,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 640 0 L 640 80 L 293.332031 80 L 280 60 L 280 0 Z M 640 180 L 640 260 L 280 260 L 280 180 Z M 640 360 L 640 480 L 0 480 L 0 360 Z M 640 360 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(78.431373%,6.27451%,18.039216%);fill-opacity:1;" d="M 640 60 L 640 144 L 0 144 L 0 96 L 280 96 L 280 60 Z M 640 240 L 640 300 L 0 300 L 0 240 Z M 640 420 L 640 480 L 0 480 L 0 420 Z M 124 0 L 156 0 L 156 260 L 124 260 Z M 124 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0.392157%,12.941176%,41.176471%);fill-opacity:1;" d="M 640 120 L 640 170 L 280 170 L 280 120 Z M 640 120 "/>
+</g>
+</svg>
